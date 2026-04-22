@@ -10,7 +10,7 @@
     <description>Personal text-to-speech feed for the shop. Articles, notes, and reference material converted to audio.</description>
     <language>en-us</language>
     <copyright>© 2026 Tom Matthews</copyright>
-    <lastBuildDate>Wed, 22 Apr 2026 15:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:59:34 +0000</lastBuildDate>
     <itunes:author>Tom Matthews</itunes:author>
     <itunes:summary>Personal text-to-speech feed for the shop. Articles, notes, and reference material converted to audio.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>PCNC 1100 Deep Dive- Inside PathPilot. (2)</title>
+      <description>PCNC 1100 Deep Dive- Inside PathPilot. (2)</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://wefinish.github.io/shop-audio/audio/04-22-2026%20—%20PCNC%201100%20Deep%20Dive-%20Inside%20PathPilot.%20(2).m4a" length="3139429" type="audio/mp4"/>
+      <guid isPermaLink="false">04-22-2026 — PCNC 1100 Deep Dive- Inside PathPilot. (2).m4a</guid>
+      <itunes:title>PCNC 1100 Deep Dive- Inside PathPilot. (2)</itunes:title>
+      <itunes:duration>00:12:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>PCNC 1100 Deep Dive- Inside PathPilot.</title>
       <description>PCNC 1100 Deep Dive- Inside PathPilot.</description>
