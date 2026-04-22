@@ -10,7 +10,7 @@
     <description>Personal text-to-speech feed for the shop. Articles, notes, and reference material converted to audio.</description>
     <language>en-us</language>
     <copyright>© 2026 Tom Matthews</copyright>
-    <lastBuildDate>Wed, 22 Apr 2026 13:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 14:42:42 +0000</lastBuildDate>
     <itunes:author>Tom Matthews</itunes:author>
     <itunes:summary>Personal text-to-speech feed for the shop. Articles, notes, and reference material converted to audio.</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Welcome to Shop Audio. (2)</title>
+      <description>Welcome to Shop Audio. (2)</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://wefinish.github.io/shop-audio/audio/04-22-2026%20—%20Welcome%20to%20Shop%20Audio.%20(2).m4a" length="1482751" type="audio/mp4"/>
+      <guid isPermaLink="false">04-22-2026 — Welcome to Shop Audio. (2).m4a</guid>
+      <itunes:title>Welcome to Shop Audio. (2)</itunes:title>
+      <itunes:duration>00:05:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Welcome to Shop Audio.</title>
       <description>Welcome to Shop Audio.</description>
