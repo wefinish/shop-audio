@@ -10,7 +10,7 @@
     <description>Personal text-to-speech feed for the shop. Articles, notes, and reference material converted to audio.</description>
     <language>en-us</language>
     <copyright>© 2026 Tom Matthews</copyright>
-    <lastBuildDate>Wed, 22 Apr 2026 15:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 16:02:00 +0000</lastBuildDate>
     <itunes:author>Tom Matthews</itunes:author>
     <itunes:summary>Personal text-to-speech feed for the shop. Articles, notes, and reference material converted to audio.</itunes:summary>
     <itunes:owner>
@@ -51,6 +51,17 @@
       <guid isPermaLink="false">04-22-2026 — PCNC 1100- An Operator's Primer..m4a</guid>
       <itunes:title>PCNC 1100- An Operator's Primer.</itunes:title>
       <itunes:duration>00:06:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>PathPilot- The Operating System Behind Your Mill.</title>
+      <description>PathPilot- The Operating System Behind Your Mill.</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://wefinish.github.io/shop-audio/audio/04-22-2026%20—%20PathPilot-%20The%20Operating%20System%20Behind%20Your%20Mill..m4a" length="2871278" type="audio/mp4"/>
+      <guid isPermaLink="false">04-22-2026 — PathPilot- The Operating System Behind Your Mill..m4a</guid>
+      <itunes:title>PathPilot- The Operating System Behind Your Mill.</itunes:title>
+      <itunes:duration>00:11:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
