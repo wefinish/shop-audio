@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shop Audio</title>
+    <link>https://wefinish.github.io/shop-audio/</link>
+    <atom:link href="https://wefinish.github.io/shop-audio/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Personal text-to-speech feed for the shop. Articles, notes, and reference material converted to audio.</description>
+    <language>en-us</language>
+    <itunes:author>Tom Matthews</itunes:author>
+    <itunes:summary>Personal text-to-speech feed for the shop. Articles, notes, and reference material converted to audio.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tom Matthews</itunes:name>
+      <itunes:email>tomscompost@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://wefinish.github.io/shop-audio/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Education"/>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
